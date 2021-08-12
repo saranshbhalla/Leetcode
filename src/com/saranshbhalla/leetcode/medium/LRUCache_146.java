@@ -9,7 +9,7 @@ import java.util.Map;
  * 1. There is a doubly linked list that contains all the data
  * 2. the map only contains ref to the list node against the original key
  */
-public class LRUCache {
+public class LRUCache_146 {
     class Node{
         int key;
         int value;
@@ -23,7 +23,7 @@ public class LRUCache {
     Node tail = null;
     Node head = null;
 
-    public LRUCache(int capacity){
+    public LRUCache_146(int capacity){
         this.capacity = capacity;
         this.map = new HashMap<>();
     }
@@ -91,7 +91,7 @@ public class LRUCache {
     }
 
     public static void main(String[] args) {
-        LRUCache cache = new LRUCache(1);
+        LRUCache_146 cache = new LRUCache_146(1);
         cache.put(0,10);
         cache.put(1, 20);
         cache.put(0, 30);

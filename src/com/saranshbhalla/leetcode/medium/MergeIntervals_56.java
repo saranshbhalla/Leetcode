@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class MergeIntervals {
+public class MergeIntervals_56 {
 
     public static void main(String[] args) {
         int[][] result = merge(new int[][]{

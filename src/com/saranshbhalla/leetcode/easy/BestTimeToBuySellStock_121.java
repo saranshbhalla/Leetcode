@@ -1,6 +1,6 @@
 package com.saranshbhalla.leetcode.easy;
 
-public class BestTimeToBuySellStock {
+public class BestTimeToBuySellStock_121 {
     public static void main(String[] args) {
         System.out.println(maxProfit(new int[]{2,1}));
     }

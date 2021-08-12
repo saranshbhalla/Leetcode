@@ -1,6 +1,6 @@
 package com.saranshbhalla.leetcode.medium;
 
-public class Robot {
+public class Robot_1041 {
     public static void main(String[] args) {
         //values R, L and G
     }
