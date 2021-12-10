@@ -2,44 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff3c5b5-4b0b-47f1-96f4-6b3af0e5c930" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/easy/LongestCommonPrefex_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/easy/PalindromeNumber_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/hard/FirstMissingPositive_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/GenerateParenthesis_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/GroupAnagrams_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/MinimumRemoveToMakeValidParentheses_1249.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/NextPermutation_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/SubdomainVisitCount_811.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/easy/BestTimeToBuySellStock_121.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/easy/ReverseInteger_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/easy/TwoSum_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/easy/ValidParenthesis_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/AddTwoNumbers_2$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/AddTwoNumbers_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/GroupAnagrams_49$StringSignature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/GroupAnagrams_49.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/LRUCache_146$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/LRUCache_146.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/LongestPalindromicSubstring_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/LongestSubstring_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MeetingRooms2_253$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MeetingRooms2_253$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MeetingRooms2_253$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MeetingRooms2_253.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MergeIntervals_56$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MergeIntervals_56.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/MinimumRemoveToMakeValidParentheses_1249.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/NextPermutation_31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/NumberOfIslands_200.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/Robot_1041.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/SubarraySumEqualsK_560.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/production/Module/com/saranshbhalla/leetcode/medium/SubdomainVisitCount_811.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/hard/TrappingRainWater_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/ContainerWithMostWater_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/saranshbhalla/leetcode/medium/WordSearch_79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1wbQmvdX90YkaQ6337Ezl4n0PRf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,45 +34,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive_41">
+  <component name="RunManager" selected="Application.WordSearch_79">
+    <configuration name="ContainerWithMostWater_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.medium.ContainerWithMostWater_11" />
+      <module name="Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saranshbhalla.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstMissingPositive_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.hard.FirstMissingPositive_41" />
       <module name="Module" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.saranshbhalla.leetcode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupAnagrams_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.medium.GroupAnagrams_49" />
-      <module name="Module" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.saranshbhalla.leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumRemoveToMakeValidParentheses_1249" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.medium.MinimumRemoveToMakeValidParentheses_1249" />
-      <module name="Module" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.saranshbhalla.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +80,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrappingRainWater_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.hard.TrappingRainWater_42" />
+      <module name="Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saranshbhalla.leetcode.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearch_79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saranshbhalla.leetcode.medium.WordSearch_79" />
+      <module name="Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saranshbhalla.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordSearch_79" />
+        <item itemvalue="Application.TrappingRainWater_42" />
+        <item itemvalue="Application.ContainerWithMostWater_11" />
         <item itemvalue="Application.FirstMissingPositive_41" />
         <item itemvalue="Application.NextPermutation_31" />
-        <item itemvalue="Application.GroupAnagrams_49" />
-        <item itemvalue="Application.MinimumRemoveToMakeValidParentheses_1249" />
       </list>
     </recent_temporary>
   </component>
